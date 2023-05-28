@@ -1,0 +1,11 @@
+description: null
+github_branch: THERMOPHILE01A
+github_repo: THERMOPHILE01
+github_url: https://github.com/mlab-modules/THERMOPHILE01
+homepage: false
+images:
+- doc/img/THERMOPILE01A_small.jpg
+- doc/img/THERMOPHILE01A_QRcode.png
+mark: 50
+tags: []
+title: THERMOPHILE01
