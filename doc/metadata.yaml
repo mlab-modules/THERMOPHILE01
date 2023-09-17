@@ -1,4 +1,4 @@
-description: null
+description: Contact less IR temperature sensor with SMBus interface.
 github_branch: THERMOPHILE01A
 github_repo: THERMOPHILE01
 github_url: https://github.com/mlab-modules/THERMOPHILE01
